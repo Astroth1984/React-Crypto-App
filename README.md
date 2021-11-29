@@ -1,6 +1,7 @@
 # React Cryptocurrencies App
 
 React Crypto App is a React Application Connected to ![Rapide Api](https://avatars.githubusercontent.com/u/16919504?s=200&v=4)
+<a href="https://rapidapi.com/"><img src="https://img.shields.io/badge/Powered%20by-rapidapi-blue.svg"/></a>
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
