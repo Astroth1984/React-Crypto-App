@@ -5,7 +5,9 @@
 <a href="https://rapidapi.com/"><img src="https://img.shields.io/badge/Powered%20by-rapidapi-blue.svg"/></a>
 
 
-React Crypto App is a React Application Connected to
+## Description
+
+React Crypto App is a React Application that combines all what you need to know about the cryptocurrencies in one place such as **Exchanges**, **Blogs**, **Market Cap** and more.
 
 
 
